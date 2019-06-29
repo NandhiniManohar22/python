@@ -5,7 +5,7 @@ while(n>0):
    deg=n%10
    rev=rev*10+dign=n//10
 if(temp==rev):
-       print("Palindrome")
+       print("yes")
  else:
        print("no")
        
