@@ -6,5 +6,5 @@
     while(temp>0):
        sum=sum+((temp%10)**length)
        temp=temp//10
-    if sum==num:
+    if (sum==num):
        print(num,end=" ")
