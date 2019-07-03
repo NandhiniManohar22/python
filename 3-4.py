@@ -1,3 +1,5 @@
-n=list(map(int,input().split()))
+m=int(input())
+n=list(map(int,input().split()[]:m))
 n.sort()
-print(n)
+for l in n:
+    print(l,end=" ")
