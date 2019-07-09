@@ -1,6 +1,6 @@
 n=input()
 count=1
-for 0 in range(len(n)):
-  if(n[0].isdigit()):
+for s in range(len(n)):
+  if(n[s].isdigit()):
     count+=1
 print(count)    
