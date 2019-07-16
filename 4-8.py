@@ -1,5 +1,5 @@
-n1,n2=map(int,input().split())
-n1=n1^n2
-n2=n1^n2
-n1=n1^n2
-print(n1,n2)
+nan1,nan2=map(int,input().split())
+nan1=nan1^nan2
+nan2=nan1^nan2
+nan1=nan1^nan2
+print(nan1,nan2)
