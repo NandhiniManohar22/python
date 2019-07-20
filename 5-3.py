@@ -1,2 +1,2 @@
-n1,n2=input().split()
-print(n1+n2)
+nan1,nan2=input().split()
+print(nan1+nan2)
