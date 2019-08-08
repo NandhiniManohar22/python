@@ -1,2 +1,2 @@
-a=input()
-print(len(a))
+nan=input()
+print(len(nan))
